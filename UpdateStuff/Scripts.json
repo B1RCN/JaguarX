@@ -3,14 +3,14 @@
       "title":"Alt delete",
       "credits": "by Arround",
       "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/AltDelete.jpg"
    },
    {
       "title":"Anti-AFK",
       "credits": "by Rice",
       "desc" : "[BROKEN] A simple Anti-AFK script.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Anti-AFK.lua\"))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/Anti-AFK..lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/!DefaultBackground.png"
    },
    {
