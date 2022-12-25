@@ -27,7 +27,7 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/ClickTPTool.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/ClickTeleport.jpg"
    },
-      {
+   {
       "title":"Blox Fruit Hoho Hub",
       "credits": "Hoho Hub",
       "desc" : "Autofarm.",
