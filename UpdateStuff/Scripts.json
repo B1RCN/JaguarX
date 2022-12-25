@@ -35,7 +35,7 @@
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/blox%20fruit.png"
    },
    {
-      "title":"Tower Defefnse",
+      "title":"Tower Defense",
       "credits": "by unkown",
       "desc" : "Tower Defense Script Auto Place",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/TowerDefenseSimulator.lua\"))()",
