@@ -35,6 +35,13 @@
       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GeneralScripts/blox%20fruit.png"
    },
    {
+      "title":"Tower Defefnse",
+      "credits": "by unkown",
+      "desc" : "Tower Defense Script Auto Place",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GeneralScripts/TowerDefenseSimulator.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/TowerDefenceGames/TowerDefenseSimulator.png"
+   },   
+   {
       "title":"Dark Dex V4",
       "credits": "by Moon and Courtney",
       "desc" : "A much less detectable game explorer with more enhancements. Decompiling may not work.",
