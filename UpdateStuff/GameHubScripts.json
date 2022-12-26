@@ -1,0 +1,122 @@
+[
+    {
+        "title":"Anime Dimensions Simulator",
+        "credits": "by Singularity",
+        "desc" : "Anime Dimensions GUI with some functions",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/UltraStuff/scripts2/main/animedimensions\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeDimensionsSimulator.png"
+    },
+    {
+       "title":"BedWars (Vape V4)",
+       "credits": "by 7GrandDadPGN",
+       "desc" : "A script called Vape V4 made for BedWars.",
+       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
+       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/BedWars.png"
+    },
+    {
+        "title":"Bolts Hub",
+        "credits": "by Bolts",
+        "desc" : "A script hub that support Arsenal, Strucid, Da Hood, MM2, ToH and others.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
+    },
+    {
+        "title":"Bloxburg (Scar Hub)",
+        "credits": "by Scarface",
+        "desc" : "Scar Hub is a small script hub for a few games.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub\", true))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/Bloxburg.png"
+    },
+    {
+       "title":"Blox Fruits (Playback X)",
+       "credits": "by NeaPchX2",
+       "desc" : "Playback X is a script hub with some games.",
+       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Protected.lua.txt\"))()",
+       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/BloxFruits.png"
+    },
+    {
+        "title":"Build A Boat For Treasure script",
+        "credits": "by unknown",
+        "desc" : "Script originally came from Zaicha Hub...?",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/BuildABoatForTreasure.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/BuildABoatForTreasure.png"
+    },
+    {
+        "title":"Cabin Crew Simulator",
+        "credits": "by unknown",
+        "desc" : "An autofarm script for Cabin Crew Simulator.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/CabinCrewSimulatorAutofarm.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/CabinCrewSimulator.png"
+    },
+    {
+        "title":"Destruction Simulator",
+        "credits": "by unknown",
+        "desc" : "This script gives you unlimited coins in that game. And yes, the coins do save after you leave.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/DestructionSimulatorInfCoins.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/DestructionSimulator.png"
+    },
+    {
+        "title":"Infectious Smile",
+        "credits": "by Nicuse",
+        "desc" : "If your only emotion is happiness... then.. are you really human?",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/InfectiousSmile.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/InfectiousSmile.png"
+    },
+    {
+        "title":"Murder Mystery 2",
+        "credits": "by vwSaraa",
+        "desc" : "A MM2 script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vwSaraa/Scripts/main/Murder%20Mystery%202%20v4.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/MurderMystery2.png"
+    },
+    {
+        "title":"Pls Donate Autofarm",
+        "credits": "by CF-Trail",
+        "desc" : "Pls Donate Autofarm script",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/PlsDonate.png"
+    },
+    {
+        "title":"RoVille",
+        "credits": "by BueCat666",
+        "desc" : "A RoVille script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BlueCat666/RoVille/main/RoVille.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/RoVille.png"
+    },
+    {
+        "title":"Shindo Life",
+        "credits": "by Singularity",
+        "desc" : "SL GUI with some useful fuctions.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/UltraStuff/scripts2/main/shindo\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/ShindoLife.png"
+    },
+    {
+        "title":"Slap Battles (Rogue Hub)",
+        "credits": "by Kitzoon",
+        "desc" : "Rogue Hub is a script hub with a few scripts.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Kitzoon/Rogue-Hub/main/Main.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/SlapBattles.png"
+    },
+    {
+        "title":"Tapping Simulator",
+        "credits": "by Bebedi",
+        "desc" : "A script for Tapping Simulator.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/TappingSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/TappingSimulator.png"
+    },
+    {
+        "title":"Tower Defense Simulator",
+        "credits": "by unknown",
+        "desc" : "This script automatically place towers and ugrades them.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/TowerDefenceGames/TowerDefenseSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/TowerDefenceGames/TowerDefenseSimulator.png"
+     },
+     {
+        "title":"Your Bizzare Adventure",
+        "credits": "by NukeVsCity",
+        "desc" : "You will need a key for this script, which you can get in the owner's Discord.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/YourBizzareAdventure.png"
+     }
+ ]
+ 
