@@ -11,35 +11,35 @@
        "credits": "by 7GrandDadPGN",
        "desc" : "A script called Vape V4 made for BedWars.",
        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
-       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/BedWars.png"
+       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/CasualAllAges/BedWars.png"
     },
     {
         "title":"Bolts Hub",
         "credits": "by Bolts",
         "desc" : "A script hub that support Arsenal, Strucid, Da Hood, MM2, ToH and others.",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
     },
     {
         "title":"Bloxburg (Scar Hub)",
         "credits": "by Scarface",
         "desc" : "Scar Hub is a small script hub for a few games.",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub\", true))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/Bloxburg.png"
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/CasualAllAges/Bloxburg.png"
     },
     {
        "title":"Blox Fruits (Playback X)",
        "credits": "by NeaPchX2",
        "desc" : "Playback X is a script hub with some games.",
        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Protected.lua.txt\"))()",
-       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/BloxFruits.png"
+       "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/AnimeGames/BloxFruits.png"
     },
     {
         "title":"Build A Boat For Treasure script",
         "credits": "by unknown",
         "desc" : "Script originally came from Zaicha Hub...?",
-        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/BuildABoatForTreasure.lua\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/BuildABoatForTreasure.png"
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GameHub/SimulatorsNoTycoons/BuildABoatForTreasure.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/CasualYoungerChildren/BuildABoatForTreasure.png"
     },
     {
         "title":"Cabin Crew Simulator",
@@ -95,7 +95,7 @@
         "credits": "by Kitzoon",
         "desc" : "Rogue Hub is a script hub with a few scripts.",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Kitzoon/Rogue-Hub/main/Main.lua\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/SlapBattles.png"
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/CasualYoungerChildren/SlapBattles.png"
     },
     {
         "title":"Tapping Simulator",
