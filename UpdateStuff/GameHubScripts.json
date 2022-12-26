@@ -4,7 +4,7 @@
         "credits": "by Singularity",
         "desc" : "Anime Dimensions GUI with some functions",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/UltraStuff/scripts2/main/animedimensions\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeDimensionsSimulator.png"
+        "imgurl" : "https://github.com/B1RCN/JaguarX/blob/main/ScriptStorageImages/GameHub/AnimeGames/AnimeDimensionsSimulator.png"
     },
     {
        "title":"BedWars (Vape V4)",
@@ -45,8 +45,8 @@
         "title":"Cabin Crew Simulator",
         "credits": "by unknown",
         "desc" : "An autofarm script for Cabin Crew Simulator.",
-        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/CabinCrewSimulatorAutofarm.lua\"))()",
-        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/CabinCrewSimulator.png"
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorage/GameHub/SimulatorsNoTycoons/CabinCrewSimulatorAutofarm.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/B1RCN/JaguarX/main/ScriptStorageImages/GameHub/SimulatorsNoTycoons/CabinCrewSimulator.png"
     },
     {
         "title":"Destruction Simulator",
