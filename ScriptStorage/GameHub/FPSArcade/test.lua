@@ -30,7 +30,7 @@ local Section = Tab2:AddSection({
 Tab2:AddButton({
 	Name = "Aimbot",
 	Callback = function()
-_G.AimbotInput = "RightClick"
+_G.AimbotInput = "T"
 _G.AimbotEasing = 0.2  
 _G.TeamCheck = true
 if _G.AlreadyRanItBroDanger then
