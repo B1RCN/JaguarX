@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Zeus Hub", HidePremium = true, SaveConfig = false, ConfigFolder = "ZeusT", IntroText = "Zeus Hub"})
+local Window = OrionLib:MakeWindow({Name = "Jaguar Hub", HidePremium = true, SaveConfig = false, ConfigFolder = "Jaguar", IntroText = "Jaguar Hub"})
 local Player = game.Players.LocalPlayer
 OrionLib:MakeNotification({
 	Name = "Logged in!",
@@ -14,8 +14,8 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddParagraph("Announcement","Releasing Zeus Hub for free and in beta")
-Tab:AddLabel("Credits: ts#0001")
+Tab:AddParagraph("Announcement","JaguarX Exploit special script hub")
+Tab:AddLabel("Credits: Arround")
 
 local Tab2 = Window:MakeTab({
     Name = "Arsenal",
