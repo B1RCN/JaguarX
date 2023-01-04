@@ -24,11 +24,11 @@ local Tab2 = Window:MakeTab({
 })
 
 local Section = Tab2:AddSection({
-	Name = "Aimbot"
+	Name = "Aimbot (Press T)"
 })
 
 Tab2:AddButton({
-	Name = "Aimbot",
+	Name = "Aimbot (Press T)",
 	Callback = function()
 _G.AimbotInput = "T"
 _G.AimbotEasing = 0.2  
