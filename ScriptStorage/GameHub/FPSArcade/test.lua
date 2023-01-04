@@ -28,7 +28,7 @@ local Section = Tab2:AddSection({
 })
 
 Tab2:AddButton({
-	Name = "Aimbot (Press T)",
+	Name = "Aimbot Press T)",
 	Callback = function()
 _G.AimbotInput = "T"
 _G.AimbotEasing = 0.2  
