@@ -89,7 +89,7 @@ function IsExecuted()
         InfoLoading()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Gura-Hub/main/World%20of%20Stands.lua"))()
     ]]
-    elseif game.PlaceId == 9210611498 then -- Miami Florida Rolepay
+    elseif game.PlaceId == 5636773181 then -- Miami Florida Rolepay
         Succes()
         wait(2)
         InfoLoading()
