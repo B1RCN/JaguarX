@@ -36,6 +36,12 @@ _G.TeamCheck = true
 if _G.AlreadyRanItBroDanger then
     return
 end
+		
+			
+Tab2:AddButton({
+	Name = "Silent Aimbot",
+	Callback = function()
+assert(getgc, "missing dependency: getgc");
 
 _G.AlreadyRanItBroDanger = "It's the Nutshack"
 
